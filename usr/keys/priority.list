@@ -1,0 +1,112 @@
+#
+#NTV+ ETELSAT 36.0∞E
+
+V: { 04 06 20 } 
+
+V: { 06 0A 00 }
+
+V: { 06 0C 00 }
+
+#NTV+  56.0∞E
+
+V: { 05 0C 00 }
+
+#Digiturk 42.0∞E
+
+CW: { 00 00 c0 }
+
+#Kontinent 85.2∞E
+
+X: { 06 02 }
+
+#Xtra TV 4.0∞W
+
+X: { 0B 0F }
+
+#Sky UK 28.0∞E
+
+X: { 09 63 }
+
+#ORF Digital ASTRA 19.0∞E, 23.0∞E
+
+CW: { 00 00 04 }
+
+#Satellite BG 23.5∞E
+
+X: { 0b 01 }
+
+#Canal SAT (France) ASTRA 19.0∞E
+
+S: { 00 33 11 }
+
+S: { 00 33 15 }
+
+#SkyDeutschland ASTRA 19.0∞E
+
+#X: { 17 02 }
+
+X: { 09 8C }
+
+#HD+ ASTRA 19.0∞E
+
+X: { 18 30 }
+
+#Digital+ (bez Taquillas) ASTRA 19.0∞E
+
+X: { 18 10 }
+
+#UPC DIRECT ASTRA 19.0∞E
+
+CW: { 00 00 A0 }
+
+#RTVi HB 13.0∞E
+
+V: { 04 23 00 }
+
+# ÎÛ·ÌË˜Í‡ HB 13.0∞E
+
+V: { 04 17 00 } #FreeX 13E
+
+V: { 04 22 00 } #Red Hot Sex
+
+V: { 04 27 00 } #Satisfaction
+
+V: { 04 38 00 } #Redlight HD
+
+#ART + AL Jazeera Sport HB 13.0∞E
+
+V: { 04 24 00 }
+
+#AB Sat - Bis TV HB 13.0∞E
+
+V: { 04 28 00 }
+
+#CYFRA+ HB13.0∞E
+
+S: { 00 00 68 }
+
+#Cyfrowy Polsat HB 13.0∞E 
+
+X: { 18 03 }
+
+#SRG SSR HB13.0∞E
+
+V: { 02 38 00 }
+
+#SkyItaly  HB 13.0∞E
+
+X: { 09 3B }
+
+#3COLOR 56.0∞E\36.0∞E
+
+X: { 4A E1 }
+
+#VIASAT(NDS) SIRIUS 5.0∞E
+
+X: { 09 0F }
+
+X: { 09 3e }
+
+#TRK   SIRIUS 5.0∞E
+
+V: { 04 12 00 }

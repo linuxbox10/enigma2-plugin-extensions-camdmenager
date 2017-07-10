@@ -1,0 +1,7 @@
+[account]
+description = dvbapi
+user = linuxsatsupport
+group = 1,2
+
+
+

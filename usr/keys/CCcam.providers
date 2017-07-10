@@ -1,0 +1,843 @@
+###############  07-10-2010 ############### 
+
+0B000000 "CNX-Digitalb(16)/C+Nord/FocusSat(1W)/TVN-13E/" // 0b00:000000 C+ Nordic [1W]
+0B000001 "CNX-Digitalb(16)/C+Nord/FocusSat(1W)/TVN-13E/" // 0b00:000000 C+ Nordic [1W]
+0B000002 "CNX-Digitalb(16)/C+Nord/FocusSat(1W)/TVN-13E/" // 0b00:000000 C+ Nordic [1W]
+0B000003 "CNX-Digitalb(16)/C+Nord/FocusSat(1W)/TVN-13E/" // 0b00:000000 C+ Nordic [1W]
+0B000043 "CNX-Conax"
+0B00267A "Kiosk PPV"
+0B004010 "CNX-Bulgarian Mux(1W)(Conax)"
+0B000004 "CNX-BULGARIAN Mux(1W)(Conax)"
+0B006010 "CNX-Canal+ Nordic"
+0B006020 "CNX-Nordic 1"
+0B006030 "CNX-Nordic 2"
+0B006040 "CNX-Nordic 3"
+0b006050 "CNX-TSS"
+0b006060 "Nordic 4"
+0B00e030 "CNX-Conax"
+0b010000 "CONAX-TVN//ContoTV-13E(PPV)(cas7)" 
+0baa0000 "CONAX-TRING(16e)//Hello(9e)(cas7)"
+0b020000 "CONAX-SEXONTV-13E(cas7)"
+18006801 "Nagravision Unknown Provider"
+18006901 "Fantasma"
+18006E01 "N1-ABS/CBN"
+18006F01 "N1-ABS/CBN" // 1800:006F01 ABS-CBN [75E, 5W]
+18007001 "N1-Polsat" // 1800:007001 Polsat [13E]
+18007101 "N1-Polsat" // 1800:007101 Polsat [13E]
+18007201 "Nagravision Unknown Provider"
+18007401 "N1-Star Digital" // 1800:007401 Star Digital [42E]
+18007501 "N1-Star Digital" // 1800:007501 Star Digital [42E]
+18008C11 "N1-MediasetPremium DDT(DVBT)"
+18009401 "N1-Hong Kong Cable" // 1800:009401 Hong Kong Cable
+18009501 "N1-Hong Kong Cable"
+18009801 "Shanghai Cable"
+18009901 "N1-Shanghai Cable"
+1800A001 "OMNE Cable (UK)"
+1800A101 "OMNE Cable (UK)"
+1800A401 "N1-Antenna Hungaria"
+1800A501 "N1-Antenna Hungaria" // 1800:00A501 Antena Hungaria [4W]
+1800C001 "Globecast World" // 1800:00C001 GlobeCast
+1800C101 "Globecast World"
+1800D001 "Cyber21"
+1800D101 "Cyber21" // 1800:00D101 Cyberstar [15W, 21W] 
+1801C101 "N2-TV GLOBO (13e)"
+1801C102 "N2-TV GLOBO (13e)"
+18010401 "N2-Premiere (19E)"
+18010403 "N2-Premiere Star (19E)"
+18010405 "N2-Premiere Star Erotik (19E)"
+18010411 "N2-Entavio (19E)"
+18010430 "N2-Unknown Provider"
+18010501 "N2-Premiere (19E)"
+18010503 "N2-Premiere Star(19E)"
+18010505 "N2-Premiere Star Erotik (19E)"
+18010511 "N2-(ID.Unused) Premiere (19E)"
+18011001 "N2-DigiKabel"
+18011101 "N2-DigiKabel"
+18802111 "N3 DigiTV new card 2010 (1.0W) ROM1880
+18802011 "N3 DigiTV
+18802113 "N3 DigiTV
+18022111 "N3 DigiTV new card 2010 (1.0W) ROM1802
+18303411 "HD+ (Entavio) New card 2010 (19.2E)"
+183d5411 "Tivusat IT (13.0E)
+18126e11 "TDT - GolTV"
+18012011 "N2-(ID.Unused) DigiTv [1W]"
+18012111 "N2-DigiTv [1W]"
+18013001 "N2-ORF"
+18013101 "N2-ORF"
+18015001 "N2-Unknown Provider"
+18017001 "N2-Polsat [13E]"
+18017101 "N2-Polsat [13E]"
+18014101 "N2-Digital+ Astra (19E)"
+18011801 "N2-Unknown Provider"
+18014001 "N2-Digital+ Astra (19E)"
+18014002 "N2-Unknown Provider"
+18014102 "N2-Unknown Provider"
+18014801 "N2-TV Cabo (30W)"
+18014901 "N2-TV Cabo (30W)"
+18017811 "N2-Unknown Provider"
+18018C11 "N2-Mediaset Premium (13E)"
+18019501 "N2-HKC(ID.Unused)"
+18020000 "N3-TV CABO (30W)(new card 2008)"
+18024801 "N2-TV Cabo (30W)"
+18024901 "N2-TV CABO (30W)"
+18030000 "N3-Polsat (13E)(new card 2008)"
+18037001 "N3-Polsat (13E)*NEW NEW"
+18037101 "N3-Polsat (13E)*NEW NEW"
+18100000 "N3-DIGITAL+ (19E/30W)(new card 2008)"
+18100073 "N3-DigiTv [1W](New card)"
+18104001 "N3-Digital+(New card)"
+18104101 "N3-Digital+(New card)"
+18104901 "N3-CABO (new card 2008)"
+1810b001 "N3-Premiere Film Hotel"
+1810b101 "N3-Premiere Film Hotel"
+4A600000 "RedLightTV,FullX2,FullXM (19E)(skycrypt/icecrypt)"
+4A610000 "Neotion//SEX VIEW XXX (13E)(skycrypt/icecrypt)"
+4A630000 "Neotion//SEX VIEW XXX (13E)(skycrypt/icecrypt)"
+4A6F0000 "NE - Infocast MAIL (13E/19E) NeotionSHL [6F]"
+4A700000 "DremCrypt//INXTC TV(13E)" (dreamcrypt/firecrypt)"
+4AA00000 "SCT,Ultra Plus TV (13E) (skycrypt/icecrypt)"
+4AA10000 "SCT,Ultra Plus TV (13E) (skycrypt/icecrypt)"
+4ABF0000 "REDLIGHT(13E)"
+4AD00000 "Free-X TV (13E/19E) (skycrypt/icecrypt)"
+4AD10000 "Free-X TV 1 (19E) (skycrypt/icecrypt) "
+4AD40000 "247Sex TV/DPTV (13E) (skycrypt/icecrypt) "
+4AE10000 "PlaformaHD(9E)/PenthauseHD(9E)"
+01000000 "Seca Issuer"
+0100FFFF "Seca Issuer"
+01000001 "S1-Seca Unknown"
+01000002 "Orbit (Old) (8W/26E)"
+01000003 "S1-Canal+ France (Old) (19E)" // 0100:000003 C+ France [19E] (obsolete)
+01000004 "S1-CSN France (Old) (19E)" // 0100:000004 CSN France [19E] (obsolete)
+01000005 "Stream (Old) (13E)" // 0100:000005 Stream PPV [13E] (obsolete)
+01000009 "S1-CSN/TPS (Old) (13E)" // 0100:000009 Numericable [13E] (obsolete)
+0100000A "Prova (13E)" // 0100:00000A Prova [13E] (obsolete)
+0100000B "Premiere (Old) (19E)" // 0100:00000B Premiere [13E] (obsolete)
+0100000C "S1-CSD Espana (Old) (19E)" // 0100:00000C CSD Espana [19E] (obsolete)
+0100000D "S1-TVB Superchannel (Old) (19E)" // 0100:00000D TVBS [19E] (obsolete)
+0100000E "S1-Canal+ Horizons (Old)"
+0100000F "S1-AB Sat/Cinestar (Old) (13E)" // 0100:00000F ABSat [13E] (obsolete)
+01000010 "S1-Telepiu/D+ (Old) (13E)" // 0100:000010 Tele+ Digitale [13E] (obsolete)
+01000011 "S1-Calcio+ (Old)(13E)" // 0100:000011 Calcio [13E] (obsolete)
+01000012 "S1-Pro Tv , Equida (Old) (19E)" // 0100:000012 ProTV, Equida [19E] (obsolete)
+01000013 "S1-Canal+ Belgique (Old)" // 0100:000013 C+ Belgique (obsolete)
+01000014 "S1-Canal+ Vlaanderen (Old)" // 0100:000014 C+ Vlaanderen (obsolete)
+01000019 "S1-Canal Digitaal (NL) (Old) (19E)" // 0100:000019 C+ NL [19E] (obsolete)
+0100001A "S1-CSAT Parabole Reunion (Old) (16E)" // 0100:00001A CSAT Reunion [16E] (obsolete)
+0100001B "S1-On Digital (Old) (UK)" // 0100:00001B On Digital (obsolete)
+0100001C "S1-Mediaset (Old) (13E)" // 0100:00001C Mediaset [13E]
+0100001D "S1-Cyfra+ (Old) (13E)" // 0100:00001D Cyfra+ [13E] (obsolete)
+0100001E "S1-Seca Unknown"
+0100001F "S1-Seca Unknown"
+01000020 "S1-C+ Nordic (Old)" // 0100:000020 C+ Nordic (obsolete)
+01000021 "S1-Astro Tv (91E)" // 0100:000021 Astro [91E] (obsolete)
+01000025 "S1-AB Sat (Old) (13E) " // 0100:000025 ABSAT2000 [13E]
+01000026 "S1-Zee Tv (Old) (105E) " // 0100:000026 ZEE TV [105E] (obsolete)
+01000029 "S1-Canal+ Horizons/EuroSport (Old) (13E)" // 0100:000029 C+ Horizons [13E]
+0100002A "S1-MEDIATECH (4W)" // 0100:00002A Antena Hungaria [4W]
+0100002E "S1-Canal+ Digitaal (NL Cable) (Old)" // 0100:00002E Canal+ NL Cable (obsolete)
+0100002F "S2-ORBIT(8W/26E)" // 0100:00002F Orbit [26E]
+01000030 "S1-RAI TV (13E)" // 0100:000030 Rai [13E]
+01000031 "S1-Kiosque (Old)" // 0100:000031 Kiosque [19E] (obsolete)
+01000033 "S1-Taquilla (Old)" // 0100:000033 Taquilla [19E] (obsolete)
+01000034 "S1-Palco (Old)" // 0100:000034 Palco [13E] (obsolete)
+01000035 "S2-ORBIT PPV"
+01000036 "S2-ORBIT PPV"
+01000037 "S1-Stream (Old)" // 0100:000037 Stream [13E] (obsolete)
+0100003D "S1-AB SAT (13E/19E)"
+0100003E "S1-AB SAT (13E/19E)"
+01000064 "S1-Digital+ (Old) (19E)" // 0100:000064 CSD [19E]
+01000065 "S2-CYFRA+(Polonia) (13E) " // 0100:000065 Cyfra+ [13E]
+01000066 "S2-Digital+ (Old) (19E)" // 0100:000066 CSD [19E] (spare)
+01000067 "S2-Digital+ (Old) (19E)" // 0100:000067 CSD [19E] (spare)
+01000068 "S2-CYFRA+ PPV(Polonia)(13E)" // 0100:000068 Cyfra2 [13E]
+0100006A "S2-CANAL+NL(hd)[DorcTv+ManX](6A)" // 0100:00006A Canal+ NL [19E]
+0100006B "S2-CANAL+NL[DorcTv+ManX](6B)" // 0100:00006B Canal+ NL [19E] (spare)
+0100006C "S2-C+NL(hd)/TV VLAANDEREN(23E/19E)(6C)" // 0100:00006C Canal+ NL [19E] (spare)
+0100006D "S2-C+NL + TELSAT[DorcTv+ManX](6D)" // 0100:00006D Canal+ NL [19E] (spare)
+0100006E "S2-NSS (57E)"
+0100006F "S2-CanalSat Horizons (22W)"
+01000070 "S2-Sky Italia (13E) (Old)" // 0100:000070 Sky Italy [13E]
+01000071 "S2-Sky Calcio (13E) (Old)" // 0100:000071 Calcio [13E]
+01000072 "S2-Sky Italia (13E) (Old)" // 0100:000072 Sky Italy [13E] (spare)
+01000073 "S2-Sky Italia (13E) (Old)" // 0100:000073 Sky Italy [13E] (spare)
+01000074 "S2-TVB Super Channel (19E)"
+01000075 "S2-Unknown"
+01000076 "S2-CANAL+ France(id76)(19E)>OFF 20/03/2008"
+01000077 "S2-Unknown"
+01000078 "S2-Unknown"
+0100007A "S2-MCT 22 Ch XXX (13E)"
+0100007B "S2-MCT 22 Ch XXX (13E)"
+01000080 "S2-CANALSAT(C+fr)(id80)(19E)"// 0100:000080 CSN [19E]
+01000081 "S2-CANAL+(C+fr)(id81)(19E)" // 0100:000081 Canal + France [19E]
+01000082 "S2-CANAL+ France(id82)(ID.Unused)(19E)" // 0100:000082 CSN [19E] (spare)
+01000083 "S2-CANAL+ France(id83)(ID.Unused)(19E)"
+01000084 "S2-C+frNUMERICABLE+ABSAT/TPS(id84)(13E/19E)" // 0100:000084 Kiosk [19E]
+01000085 "S2-C+frNUMERICABLE 2+ABSAT/TPS(id85)(13E/19E)" // 0100:000085 CSN [19E] (spare)
+01000086 "S2-CANAL PRO(equida)(C+fr)(13E)"
+01000087 "S2-Unknown"
+01000088 "S2-AB Sat/CSN/TPS (13E/19E)" // 0100:000088 CSN [19E]
+01000089 "S2-NUMRICABLE (13E/19E)"
+0100008C "S2-Canal+ Satmode"
+01000091 "S2-CanalSatellite Reunion"
+0100009B "S2-Canal+ Belgique/BeTV Wallons (DVBC)"
+0100009C "S2-Canal+ Vlaanderen (DVBC)"
+0100009D "S2-Canal+ Belgique(ID.Unused)"
+0100009E "S2-Canal+ Vlaanderen(ID.Unused)"
+010000A1 "S1-AB Sat (13E/19E)"
+010000A2 "S1-AB Sat (13E/19E)"
+010000A3 "S1-AB Sat (13E/19E)"
+010000A7 "S2-Top Up TV (UK) (Terrestrial)"
+010000B1 "S2-MEDIASET(Card Servizio)(13E)"
+010000B2 "S2-MEDIASET(Card Servizio)(13E)(id not use)"
+0100010A "Seca Unknown"
+01000140 "S2-Telecom (DVBC)"
+01000141 "S2-Telecom (DVBC)"
+01000143 "S2-Unknown"
+01000184 "Seca Unknown"
+010001D5 "Seca Unknown"
+010001D7 "Seca Unknown"
+01000300 "Seca Unknown"
+01000333 "Seca Unknown"
+01000342 "Seca Unknown"
+01003be3 "S2-Unknown FAKE ID"
+010036e9 "S2-Unknown FAKE ID"
+010069d3 "S2-Unknown FAKE ID"
+010017bb "S2-Unknown FAKE ID"
+0100732f "S2-Unknown FAKE ID"
+0100b0e0 "S2-Unknown FAKE ID"
+010030e9 "S2-Unknown FAKE ID"
+0100c9d2 "S2-Unknown FAKE ID"
+01004001 "S3-DIGITAL+(19E)Carmagedon >OFF 25/05/2008 "
+01004101 "S3-DIGITAL+(19E)Carmagedon >OFF 25/05/2008 "
+01004102 "S3-DIGITAL+(19E)Carmagedon >OFF 25/05/2008 "
+01004106 "S3-DIGITAL+(19E)(card V.10)***NEWCARD**2008"
+01004108 "S3-DIGITAL+(19E)(card V.10)***NEWCARD**2008"
+01005001 "S3-DIGITAL+(19E)(card V.10)***NEWCARD**2008id not use"
+010002e2 "S1-RAI(13E)Trasponder For DDT-Rai"
+0100a821 "S2-NUMRICABLE (13E/19E)"
+0100a825 "S2-CANAL+ France"
+0100a829 "S2-CANAL SAT(FR)"
+0100009f "FAKE ID"
+010000a0 "FAKE ID"
+01003311 "S3(MERLIN)-CanalSat France (19E) 3311 (card V.9 2008)"
+01003315 "S3(MERLIN)-Canal+ France 3315 (19E) (card V.9 2008)"
+01003317 "S3(MERLIN)-C+Fr/Absat (19.2) 3317 (card V.9 2008)"
+0100331b "S3(MERLIN)-id not use(card V.9 2008)"
+0100331d "S3(MERLIN)-id not use(card V.9 2008)"
+01003341 "S3(MERLIN)-id not use(card V.9 2008)"
+01005225 "S3-MEO TV (portuguese hd) (30w)NEWCARD**2008"
+01005221 "S3-MEO TV (portuguese hd) (30w)NEWCARD**2008"
+01005211 "S3-MEO TV (portuguese hd) (30w)NEWCARD**2008"
+0100036b "S2-?????"
+0100B75A "Seca Unknown"
+01008ba2 "Seca Unknown"
+0100BEEF "Sky Italy Fake ID`s"
+0100FFFF "Sky Italy Fake ID`s"
+05000000 "Viacces Unknown Provider"
+0500000B "Viacces Unknown Provider"
+05000A00 "Viacces Unknown Provider (05000A00)"
+05000B00 "TV Slovenia+Kapodistria (13E)"
+05001540 "TElefonica" // 0500:001540 Telefonica
+05001570 "Cine+ Digital (42E)"
+05001A20 "Viacces Unknown Provider"
+05001C10 "Globecast France (7E-8W)" // 0500:001C10 Globecast Fr [8W, 7E]
+05002100 "HTB+ Russia (Old)(36E)"
+05002500 "Globecast France (13E/19E)" // 0500:002500 Globecast
+05004800 "FT Cable" // 0500:004800 FT Cable
+05005500 "MTV Networks (13E/19E)" // 0500:005500 MTV [19E]
+05007000 "AB Sat (Old) (13E)" // 0500:007000 AB Sat [13E]
+05007010 "AB Sat (Old) (13E)" // 0500:007010 AB Sat [13E]
+05007400 "CFI/MCM Belgique (13E-5W)" // 0500:007400 CFI\MCM [13E, 5W]
+05007800 "CSN(via2.3)(13E,19E)/" // 0500:007800 CSN [13E, 19E], UPC [15W]
+05007C00 "TPS(via2.3)(13E)" // 0500:007C00 TPS Fr [13E]
+05008000 "FT Cable (13E-19E) (TPSCrypt)" // 0500:008000 FT Cable [13E, 19E]
+05008100 "FTCable (13E) (TPSCrypt) " // 0500:008100 FTCable TPSCrypt [13E]
+05008110 "FTCable C+Fr (19E)" // 0500:008110 FTCable C+Fr [19E]
+05008300 "MCM Europe/CSN/ART (13E)" // 0500:008300 CSN [13E, 19E]
+05008400 "MCM Europe/CSN/ART (13E)" // 0500:008400 MCM Europe\ART [13E]
+05008800 "Telia Comhem Sweden(Cable)(13E)" // 0500:008800 Telia Comhem
+05008C00 "Canal+ France (19E) (ThalesCrypt)" // 0500:008C00 C+ France
+05008C10 "Canal+ France (19E) (ThalesCrypt)"
+05009400 "SRG Swiss (13E)>OFF 25/02/2008 " // 0500:009400 SRG Swiss [13E]
+05009800 "MCM Europe (5W)"
+05009C00 "SVT Europa (5E)" // 0500:009C00 SVT Europe [5E]
+05009C10 "SVT Europa (5E)" // 0500:009C10 TVX02 [5E]
+05009C20 "SVT Europa (5E)" // 0500:009C20 TVX03 [5E]
+05009C30 "SVT Europa (5E)" // 0500:009C30 TVX04 [5E]
+05009C40 "SVT Europa (5E)" // 0500:009C40 TVX05 [5E]
+0500A000 "BBC Prime (13E)" // 0500:00A000 BBC Prime [13E]
+0500A100 "Viacces Unknown Provider"
+0500A110 "Viacces Unknown Provider"
+0500A120 "Viacces Unknown Provider"
+0500A800 "Tele Danmark Selector(Cable)" // 0500:00A800 Selector
+0500A810 "Tele Danmark Selector(Cable)"
+0500A820 "Tele Danmark Selector(Cable)"
+0500AC00 "HRT Croatia (Old)(13E)" // 0500:00AC00 HRT [13E] (obsolete)
+0500B000 "TV Slovenia+Kapodistria (13E)"
+0500B400 "UBEST"
+0500B800 "TVBS  (88E) (Via)" // 0500:00B800 Era Bouquet [166E]
+0500C000 "C-Skynet (76E)" // 0500:00C000 C-SkyNet
+0500C010 "C-Skynet (76E)"
+0500C020 "C-Skynet (76E)"
+0500C030 "C-Skynet (76E)"
+0500C400 "NTV International (13E) (old)" // 0500:00C400 NTV Int [13E] (obsolete)
+0500C410 "NTV+ (36E)(old)" // 0500:00C410 NTV+ [36E] (obsolete)
+0500C800 "Senda (Cable)" // 0500:00C800 Senda
+0500C810 "Senda (Cable)" // 0500:00C810 Senda
+0500C820 "Senda (Cable)" // 0500:00C820 Senda
+0500C830 "Senda (Cable)" // 0500:00C830 Senda
+0500C840 "Senda (Cable)" // 0500:00C840 Senda
+0500C850 "Viacces Unknown Provider"
+0500C860 "Viacces Unknown Provider"
+0500C870 "Viacces Unknown Provider"
+0500D400 "Parabole Reunion (16E) " // 0500:00D400 Parabole Reunion [16E]
+0500D540 "TBS " // 0500:00D540 TBS
+0500D800 "Televisa (43West) (Old)" // 0500:00D800 Televisa [43W]
+0500E000 "Pacific Tv EASTERN DTH (122E)" // 0500:00E000 Eastern DTH [76E]
+0500E400 "SCT (Old Viaccess) (13E)" // 0500:00E400 EuroTv SCT (obsolete)
+0500E410 "Euro Tv SCT (Old) (13E)" // 0500:00E410 Rainbow (obsolete)
+0500E420 "Musicam (13E)" // 0500:00E420 Musicam [13E] (obsolete)
+0500E430 "Euro Tv RCT (Old) (13E)" // 0500:00E430 RCT [13E] (obsolete)
+0500E440 "Canal 7 Madrid (30W)" // 0500:00E440 Canal 7 Madrid [30W]
+0500E450 "Retelsat (13E)" // 0500:00E450 Retelsat [13E]
+0500E460 "ST Hilo (30W)" // 0500:00E460 ST-Hilo [30W]
+0500E470 "Sex View (Old Viaccess)(13E)" // 0500:00E470 EuroTv SexView [13E] (obsolete)
+0500E800 "Globecast Espana/CanalRural (7E)(30W)" // 0500:00E800 GlobeCast Espana [7E]
+0500E810 "Globecast Espana RetelSat (7E)(30W)" // 0500:00E810 GlobeCast Espana [7E]
+0500F000 "EMI Special (Old Via) (26E)" // 0500:00F000 EMI Special [26E]
+0500F520 "NSAB (5E)" // 0500:00F520 NSAB
+0500F800 "Cine+ Cable" // 0500:00F800 Cine+ Cable
+05010C00 "Viasat (Old Via) (5E)" // 0500:010C00 Viasat [5E]
+05010C10 "Viasat (Old Via) (5E)" // 0500:010C10 Viasat Ticket [5E] (obsolete)
+05010C20 "Viasat (Old Via) (5E)" // 0500:010C20 Viasat NSAB [5E]
+05010C30 "Viasat (Old Via) (5E)" // 0500:010C30 Viasat Nordic [5E]
+05010C40 "Viasat (Old Via) (5E)" // 0500:010C40 Viasat Europe [5E]
+05011000 "Deepam Tv (13E)" // 0500:011000 DeepamTV [13E] (obsolete)
+05018810 "Deepam TV (13E)"
+05018820 "Deepam TV (13E)"
+05011400 "Taipei Tv (97W)" // 0500:011400 Taipei Int.Sat.TV [97W]
+05011C00 "EuroSport Int. (13E-7E) (Viaccess)" // 0500:011C00 Eurosport [13E, 7E]
+05012000 "Cine+ Digital (42E)" // 0500:012000 Cine+ [42E]
+05012010 "Cine+ Digital (42E)" // 0500:012010 Cine+ PPV [42E]
+05012800 "MMBN (88E)" // 0500:012800 MMBN [88E]
+05012810 "TBL Tv (88E)" // 0500:012810 TBL
+05012C00 "MCM EuropeC+ Horizons,(13E)" // 0500:012C00 C+ Horizons, MCM [13E]
+05013000 "SIC International (16E)" // 0500:013000 SIC [16E]
+05013400 "Globecast" // 0500:013400 Alpha Digital (obsolete)
+05014400 "Channel Sun (13E)(via2)" // 0500:014400 ChannelSun [13E]
+05014800 "Alpha Digital (closed)"
+05014880 "Alpha Digital (closed)" // 0500:014800 Alpha Digital [13E]
+05014C00 "Television X  (13E)" // 0500:014C00 TelevisionX [13E]
+05015000 "TPS France (13E) (Via2 PC 2.4)" // 0500:015000 TPS France [13E]
+05015400 "GLOBECAST FR(TTN)(13E) " // 0500:015400 UltraBlue [13E]
+05016400 "ART (Arabesque) (13E)" // 0500:016400 ART [13E]
+05016800 "Sex View , SexViewPlus (13E)(Via2)" // 0500:016800 SexView, SexViewPlus [13E] (obsolete)
+05016810 "SCT/Ultra Plus/247Sex/DPTV (13E)(Via2)" // 0500:016810 SCT, DontPanic, Extasi, 247SexTV [13E] (obsolete)
+05016C00 "C-Skynet (76E)" // 0500:016c00 C-Sky-Net [76E, 128E]
+05016C10 "C-Skynet (76E)"
+05016C20 "C-Skynet (76E)" // 0500:016c20 C-Sky-Net [76E, 128E]
+05017000 "Trueworld (113E)"
+05017010 "Trueworld (113E)" // 0500:017010 ABC World [113E]
+05018400 "Viacces Unknown Provider"
+05018800 "DEEPAM TV (13E)" // 0500:018800 DeepamTV [13E]
+05018810 "Viacces Unknown Provider"
+05018820 "Viacces Unknown Provider"
+05018C00 "Neovisne Tv Hayat (13E)" // 0500:018c00 NeovisneTV Hayat [16E]
+05019000 "TVR Cultural (16E)" // 0500:019000 TVR Cultural [16E]
+05019400 "NSAB (5E)" // 0500:019400 NSAB [5E]
+05019410 "NSAB (5E)" // 0500:019410 NSAB [5E]
+05019420 "Viacces Unknown Provider"
+05019430 "Viacces Unknown Provider"
+05019440 "Viacces Unknown Provider"
+0501A400 "NTV+ Russia (36E) (Old)" // 0500:01a400 NTV+ [36E]
+0501AC00 "RTV International [13E]" // 0500:01ac00 RTV International [13E]
+05020000 "TPS (Via id.20000)(13E)"
+05020010 "TPSCrypt2-TPS(13E)(No Multivision)"
+05020500 "Viacces Unknown Provider"
+05020510 "Viacces Unknown Provider"
+05020520 "Viacces Unknown Provider"
+05020530 "Viacces Unknown Provider"
+05020540 "Viacces Unknown Provider"
+05020600 "Viasat Baltic (Via PC 2.5) (5E)
+05020620 "Viasat Baltic (Via PC 2.5) (5E)"
+05020640 "Viasat Baltic (Via PC 2.5) (5E)"
+05020700 "RTV International (New)[13E]"
+05020710 "NTV+ (36E)"
+05040600 "NTV+ (36E)(Via 4.0 New card 2009)"
+05041140 "Canal+ Maghreb (26E)(Via 4.0 New card 2009)"
+05020800 "AB Sat(Prepaid)((13E) (Via2)(id.20800)" // 0500:020800 ABSat [13E, 19E]
+05020810 "AB Sat(Abonnements)(19/13E)(Via2)(id.20810)" // 0500:020800 ABSat [13E, 19E]
+05020820 "BIS new prov.France(5W/13E)(Via2)" 
+05020830 "BIS new prov.France(5W/13E)(Via2)" 
+05020840 "BIS new prov.France(5W/13E)(Via2)"
+05020850 "NO USE BIS new prov.France(5W/13E)(Via2)" 
+05020860 "NO USE BIS new prov.France(5W/13E)(Via2)" 
+05020808 "CSN (19E)" // 0500:020808 CSN [19E]
+05020900 "UltraBlue(13E)(Fallita)"
+05020910 "SEX VIEW//Globecast.FR(13E)" // 0500:020900 UltraBlue, SunTV [13E]
+05020A00 "HRT Croatia (13E)" // 0500:020a00 HRT Croatia [13E]
+05020A10 "HRT Basic (13E)(id not use)" // 0500:020a10 HRT Croatia [13E]
+05020A20 "HRT HBO Adria (13E)(id not use)" // 0500:020a20 HRT Croatia [13E]
+05020A30 "HRT Private Gold (13E)(id not use)" // 0500:020a30 HRT Croatia [13E]
+05020A40 "HRT OiV Custom provider(id not use)(13E)" // 0500:020a40 HRT Croatia [13E]
+05020B20 "EMI Special Channel (26E)" // 0500:020b20 EMI Special [26E]
+05020C00 "Sex.Tv/Sex Plus.TV (13E)(Via2)" // 0500:020c00 Sex.TV, Sexplus.Tv [13E]
+05020C10 "Sex Gay.TV (13E)(Via2)" // 0500:020c10 SexGay.TV [13E]
+05020C20 "Sex.Tv/Sex Plus.TV (13E)(Via2)" 
+05020C30 "Sex.Tv/Sex Plus.TV (13E)(Via2)" 
+05020C40 "Sex.Tv/Sex Plus.TV (13E)(Via2)" 
+05021100 "ART (Arabesque)(Basic+Cinema)(13E)" // 0500:021100 ARTSport [13E]
+05021110 "ART (Arabesque)(Sport 1/6)(13E)" 
+05021120 "ALJAZZERA SPORT 1&2 (13E)(OLD ID)"
+05021200 "TIN+(Asia)(13E)//TBL (88E) " // 0500:021200 Asianet [13E]
+05021210 "TIN+(Asia)(13E)//TBL (88E) " // 0500:021210 Asianet [13E]
+05021400 "pacific/asia provider??????"
+05021500 "SCT/Ultra Plus & Luxuria (13E)(Via2)" // 0500:021500 SCT, Extasi [13E]
+05021510 "247Sex Tv/DPTV (13E) (Via2)" // 0500:021510 Don't Panic, 247Sex [13E]
+05021520 "Musicam (13E) " // 0500:021520 Musicam [13E]
+05021570 "Sex View/Sex View Plus (13E) (Via2)" // 0500:021570 SexView, SexView Plus [13E]
+05021700 "SPICE PLATINUM (13E) (Via2)" // 0500:021700 Spice Platinum [13E]
+05021710 "SPICE PLATINUM (13E)(id not use)(Via2)" // 0500:021710 Spice Platinum [13E]
+05021D00 "Parabole Reunion (16E)"
+05021900 "BHT Bosnia TV (13E)"
+05021B00 "DEEPAM TV (13E)"
+05021B10 "DEEPAM TV (13E)"
+05021C00 "Free-X TV (13E-19E)" // 0500:021c00 FreeXTV, Backroom, XDreamTV [13E, 19E]
+05021C10 "Free-X TV (13E-19E)"
+05022000 "pacific/asia provider??????"
+05022010 "pacific/asia provider??????"
+05022020 "pacific/asia provider??????"
+05022030 "SkyNet (146E)"
+05022040 "SkyNet (146E)"
+05022050 "SkyNet (146E)"
+05022060 "pacific/asia provider??????"
+05022100 "Viaccess Unknown Provider"
+05022110 "Viaccess Unknown Provider"
+05022200 "TELEVISA (43W)"
+05022210 "TELEVISA (43W)"
+05022260 "TPS France (13E) (Via2.3)"
+05022600 "TPS France (13E) (Via 22600)" //
+05022610 "C+ Fr/TPS/ABSAT (13E) (Via22610)"
+05022620 "C+ Fr//TPS (13E) (Via2.5)"
+05022900 "BBC Prime (13E)"
+05022A00 "EUROSPORT (13E)(Via2.4)"
+05022C00 "RTV International (13E)"
+05022E00 "NTV Hayat(13E)(Via2.5)"
+05022E10 "NTV Hayat(13E)(Via2.5)"
+05022F00 "MAXtv Romania(5E)/DCS 1"
+05022F10 "MAXtv Romania(5E)/DCS 2"
+05023100 "NTVi [5E]"
+05023110 "NTVi [5E](ID.Unused) "
+05023120 "NTVi [5E](ID.Unused) "
+05023130 "NTVi [5E](ID.Unused) "
+05023140 "NTVi [5E](ID.Unused) "
+05023200 "BOXER (DVBT)(VIA 2.5)"
+05023210 "BOXER (DVBT)(ID.Unused)(VIA 2.5)"
+05023220 "BOXER (DVBT)(ID.Unused)(VIA 2.5)"
+05023230 "BOXER (DVBT)(ID.Unused)(VIA 2.5)"
+05023240 "BOXER (DVBT)(ID.Unused)(VIA 2.5)"
+05023600 "C+FR//TPS (VIA 2.5)"
+05023700 "HTB+ HD (36E)(VIA 2.6)"
+05023800 "SRG SWISS+HD (13E)(NEWCard 2008)"
+05023900 "pacific/asia provider??????"
+05023A00 "TRACE TV (33E)(Via2.6)"
+05023D00 "HTB+ Boctok (56E)"
+05023B00 "SEX CHANNEL TELEVISION (9E)**(NEW)"
+05024300 "TIN+(Asia)(13E)//TBL (88E)VIA 2.6 " // 0500:021200 Asianet [13E]
+05024310 "TIN+(Asia)(id not use)(13E)//TBL (88E)VIA 2.6 " // 0500:021200 Asianet [13E]
+05024400 "DORCELTV+(Freex1&2/Xdream)(13E)"
+05024410 "FREE-X 1+2+XDream(id not use)(13E)"
+05024500 "STVeurope/ORTint (5E)"
+05024510 "SVT Europa(ID.Unused)"
+05024520 "SVT Europa(ID.Unused)"
+05024700 "UKRAINIAN/ICTV/CTB (4W)"
+05024900 "CFI PECO PRO (21,6E)"
+05024B00 "RTVi (13E)(VIA 24b00)"
+05024F00 "MAXtv Romania(16E/5E)(New card)"
+05024F10 "MAXtv Romania(16E/5E))(id not use)" 
+05025100 "SEX on TV + REDLIGHT(13+9 E)>(NEWCard 2008)"
+05025110 "MCT/minicard(Sct/Amateur)(13E)"
+05025120 "REDLIGHT CARD(New card)(13E)"
+05025200 "GlobeCast BT (13E)(Via 2.6)"
+05025210 "DEEPAM TV (Via 2.6)(13E)"
+05025800 "Poverkhnost HDTV (36E)VIA 2.6"
+05025900 "TVR(Via3.0)(16E)"
+05025910 "TVR(Via3.0)(16E)"
+05030100 "EUROSPORT(Via3.0)(13E/7E)"
+05030700 "JSC SPORT(Via3.0)(13E)" 
+05030a00 "HRT (13E) (Via 3.0)"
+05030a10 "HRT Basic(13E)(Via 3.0)"
+05030a20 "HRT HBO ADRIA(id not use)(13E)(Via 3.0)"   (id not use)
+05030a30 "HRT Private Gold(id not use)(13E)(Via 3.0)"
+05030a40 "HRT Oiv Custom(id not use) (13E)(Via 3.0)"
+05030B00 "C+FR/TNT sat(19E)(Via 3.0 New card 2008)"
+05030c00 "Sailing (12W)(Via 3.0 New card 2008) **********"
+05030d00 "(Via 3.0 New card 2008)************************"
+05031000 "TV Slovenia+Kapodistria (13E)(Via 3.0)"
+05031700 "(Via 3.0 New card 2008)************************"
+05031800 "(Via 3.0 New card 2008)************************"
+05031d00 "(Via 3.0 New card 2008)************************"
+05031d10 "(Via 3.0 New card 2008)************************"
+05031d20 "(Via 3.0 New card 2008)************************"
+05031b00 "Club Prive (13E)(Via 3.0 id 31b00)"
+05032000 "SEXVIEW+HD(13E)(Via 3.0 id 32000)NEW"
+05032010 "SEXVIEW+HD(13E)[id not use](Via 3.0)NEW"
+05032500 "SPICE PLATINUM (13E) (Via 3.0 id 32500)NEW"
+05032510 "SPICE PLATINUM [id not use](13E) (Via 3.0)******NEW NEW NEW"
+05032820 "C+FR/TNT sat(19E)(Via 3.0 id 32820)"
+05032830 "C+FR/TNT sat(19E)[id not use](Via 3.0 id 32.820)"
+05032840 "C+FR/TNT sat(19E)[id not use](Via 3.0 id 32.820)"
+05032900 "ORANGE foot/Globecast.fr[id not use](5W+13E)(Via 3.0 New card 2008)"
+05032910 "ORANGE foot/Globecast.fr[id not use](5W+13E)(Via 3.0 New card 2008)"
+05032920 "ORANGE foot/Globecast.fr(5W+13E)(Via 3.0 New card 2008)"
+05032930 "ORANGE foot/Globecast.fr[id not use](5W+13E)(Via 3.0 New card 2008)"
+05032940 "ORANGE foot/Globecast.fr[id not use](5W+13E)(Via 3.0 New card 2008)"
+05032950 "ORANGE foot/Globecast.fr[id not use](5W+13E)(Via 3.0 New card 2008)"
+05041700 "Freex (viaccess 4.0)(13E)"
+05041710 "Freex (viaccess 4.0)(id not use)(13E)"
+05042200 "Redlight (viaccess 4.0)(13E)"
+05042210 "Redlight (viaccess 4.0)(id not use)(13E)"
+05042400 "Jsc Sport (viaccess 4.0)(13E)"
+05042410 "Jsc Sport (viaccess 4.0)(id not use)(13E)"
+05042700 "SCT (viaccess 4.0)(13E)"
+05042710 "SCT (viaccess 4.0)(id not use)(13E)"
+05fff320 "Ident-Card"
+05fff400 "Ident-Card" 
+05fff5f0 "Ident-card" 
+05fffd00 "Ident-Card" 
+05fff4b0 "Ident-Card" 
+05fff410 "Ident-Card" 
+05fff430 "Ident-Card"
+05fff450 "Ident-Card" 
+05fff470 "Ident-Card"
+05fff4f0 "Ident-Card" 
+05fff500 "Ident-Card" 
+05fff510 "Ident-Card"  
+05fff530 "Ident-Card"  
+05fff550 "Ident-Card"  
+05fff630 "Ident-Card"  
+05fff810 "Ident-Card"  
+05fff820 "Ident-Card"  
+05fff840 "Ident-Card"  
+05fff8a0 "Ident-Card" 
+05fff8f0 "Ident-Card"  
+05fff830 "Ident-Card"  
+05fff7e0 "Ident-Card"  
+05fff4a0 "Ident-Card"  
+05fff320 "Ident-Card"  
+05fff710 "Ident-Card"  
+05fff720 "Ident-Card"  
+05fff780 "Ident-Card"  
+05fff7A0 "Ident-Card"  
+05fff7e0 "Ident-Card"
+05fff920 "Ident-Card"
+05002200 "Ident-Card"
+05ffff40 "Ident-Card"
+06020000 "I2-Pink Plus(13e 16e)" // 0602:000000 C+ NL[19E], BulSat[39E], Pink[5W]
+06020001 "I2-[id not use]"
+06020002 "I2-[id not use]"
+06020003 "I2-[id not use]"
+06030000 "I2-JSC SPORT+ (7W)"
+06030001 "I2-[id not use]"
+06030002 "I2-[id not use]"
+06030002 "I2-[id not use]"
+06040000 "I2-NOVA/Bulsatcom/Sex Ch/Showtime (13E,39E,9E,7W)" // 0604:000000 Nova, SCT, Extasi, SpicePlatinum, Showtime
+06040001 "I2-SHOWTIME(Arabi)(7W)"
+06040002 "I2-BELGACOM (13E)"
+06040003 "I2-MCT21ch/ART-NILE(Arabi)(7W)"
+06060000 "I2-SEX VIEW/RRSAT(9est)" // 0606:000000 SexView, SexView Plus, Don't Panic, 247Sex
+06060001 "I2-[id not use]"
+06080000 "I2-ZeeTV (13E)" // 
+06080001 "I2-[id not use]"
+06080002 "I2-[id not use]"
+06080003 "I2-[id not use]"
+06100000 "I2-SEX VIEW (id.ird.610)"
+06140000 "I2-WORLD Tv UK (24,5 W)"
+06140001 "I2-WORLD Tv UK (24,5 W)"
+06140002 "I2-WORLD Tv UK (24,5 W)"
+06140003 "I2-WORLD Tv UK (24,5 W)"
+06160000 "I3-ITM Macedonia (16E)
+06180000 "I2-IN X TV(13E)"
+06200000 "I2-LA7 Sport (12W)" 
+06220000 "I2-Canal+ NL (19E)" // 0622:000000 C+ NL [19E]
+06220001 "I2-DIGITALB SPORT(16E)"// 0622:000000 C+ NL [19E]
+06220002 "I2-AlbaniaSat(16E)/Canal+ NL (19E)" // 0622:000000 C+ NL [19E]
+06220003 "I2-AlbaniaSat (16E)/Canal+ NL (19E)" // 0622:000000 C+ NL [19E]
+06240000 "I2-EURO1080 (9E)"
+06240001 "I2-EURO1080"
+06240002 "I2-EURO1080"
+06240003 "I2-EURO1080"
+06250000 "I2-RRSat (16E)"
+06260000 "I2-InXWorld/Redlight Tv(+)/FreeXTV" // 0626:000000 XDreamTV, FreeXTV, RedLightTV, BackRoom
+06280000 "I2-SEX ONTV New card(13/9E)" 
+06280001 "I2-SEX ONTV New card(13/9E)"
+06280002 "I2-SEX ONTV New card(13/9E)"
+06280002 "I2-SEX ONTV New card(13/9E)"
+06280003 "I2-SEX ONTV New card(13/9E)"
+06480000 "I2-Conto TV (13E)"
+06520000 "I2-GTSS (75E)"
+06540000 "I2-Poverkhnost (36E)"
+06600000 "I2-Ecuador TV`s (Old)"
+06620000 "I2-Dahlia TV"
+06640000 "I2-Digiturk (7E)(new 2007)"
+06680000 "I2-ORBIT(1W/26E)"
+09AF0000 "NDS-KABELVISION (8W)"
+09C40000 "NDS-PREMIERE (19.2W)"
+090D0000 "NDS-YES (4W)"
+090F0000 "NDS-VIASAT/TELNOR(5E/1W)" // 090f:000000 Viasat [5E]
+091F0000 "NDS-TOTAL TV (16E)(Serbia)"
+09180000 "NDS-(ID.Unused) SKY Italia (13E)" 
+09190000 "NDS-SKY Italia (13E)"
+092B0000 "NDS-D-SMART (42E)"
+092F0000 "NDS-DOLCE (39E)"
+09240000 "NDS-STAR TV (57E)" 
+09290000 "NDS-BOOM (4W)"
+093B0000 "NDS3-SKY Italia (13E)(NEW CAID 2007)"
+09440000 "NDS-TATA SKY (83E)"
+09600000 "NDS-(ID.Unused) BSkyB (28E)"
+09610000 "NDS-SKY/UK & BSkyB (28E)"
+09620000 "NDS-DTH (4W)" 
+09630000 "NDS3-SKY UK & BSkyB (28E)(NEW CAID 2009)"
+09810000 "NSD-NBA (18W)" 
+098e0000 "NDS-Kabel BW Germany(DVB-C)"
+090C0000 "NDS-YES (4W)"
+09D00000 "NDS-TVP (7E)"
+0D000000 "CW2-DigiTurk (7E)(New card 2006)"
+0D000004 "CW1-MTV (13E,19E), Nicklodeon NL (19E)" // 0d00:000004 MTV [13E,19E], Nicklodeon NL [19E]
+0D00000C "CW1-MTV Polska, Clasic (13E)" // 0d00:00000c MTV Polska, Clasic [13E]
+0D000020 "CW1-Klingston (5E)" // 0d00:000020 Klingston [5E]
+0D000040 "CW1-MTV (13E,19E), Nicklodeon NL (19E)(CW)"
+0D000065 "CW2-BFBSD (7E)" // 0d00:000065 BFBS [7E]
+0D000080 "CW1-MTV"
+0D0000C0 "CW2-DigiTurk (7E)(New card 2006)"// 0d00:0000c0 Digiturk [7E]
+0D0000C1 "CW2-DigiTurk (7E)" // 0d00:0000c1 Digiturk [7E]
+0D0000Cc "CW2-Unknown Provider"
+0D0000C4 "CW2-Lig - DigiTurk(7E)" // 0d00:0000c4 Lig (Digiturk) [7E]
+0D0000C8 "CW2-Lig - DigiTurk(7E)" // 0d00:0000c4 Lig (Digiturk) [7E]
+0D0000Ca "CW2-DigiTurk (7E)" // 0d00:0000c1 Digiturk [7E]
+0D000400 "CW1-MTV"
+0D000800 "CW1-MTV"
+0D000C00 "Cryptoworks Unknown Provider"
+0D001000 "CW2-MTV (13E/19E)"
+0D002000 "CW2-Kingstone Imedia (5E)"
+0D003000 "CW2-Kingstone Imedia (5E)"
+0D005000 "Cryptoworks Unknown Provider"
+0D006800 "CW2-BFBS TV(old) (7E)"
+0D006C00 "CW2-BFBS TV(old) (7E)"
+0D007000 "CW2-BFBS TV(old) (7E)"
+0D008000 "CW2-UPC Direkt"
+0D008C00 "Cryptoworks Unknown Provider"
+0D00A000 "CW1-Cinenova"
+0D00B000 "CW1-Xtra Music"
+0D00C000 "CW2-DigiTurk (7E)(New card 2006)"
+0D00C400 "CW1-DigiTurk (7E) (Old) (ecm)"
+0D00C800 "CW1-DigiTurk (7E) (Old)"
+0D00CC00 "CW1-DigiTurk (7E) (Old)"
+0D00E000 "CW1-JSTV"
+0D010004 "CW2-CzechLink (23,5E)" // 0d01:000004 Czechlink [28E]
+0D010050 "CW2-CzechLink (23,5E)(Old) " // 0d01:000050 Czechlink [28E]
+0D010054 "CW2-CzechLink (23,5E)(Old) " // 0d01:000054 Czechlink [28E]
+0D0100e4 "CW1-JSTV (13E)" // 0d01:0000e4 JSTV [13]
+0D010c00 "CW2-CzechLink (23,5E)" // 0d01:000004 Czechlink [28E]
+0D018000 "CW2-Telespazio"
+0D018400 "CW2-BTV INPS (13E)"
+0D015000 "CW1-CzechLink (23E)"
+0D015400 "CW1-CzechLink (23E)"
+0D01E000 "CW1-JSTV(13E)"
+0D01E400 "CW1-CzechLink (23.5E)" 
+0D01E800 "CW1-CzechLink (23.5E)" 
+0D01EC00 "CW1-CzechLink (23.5E)" 
+0D01EF00 "CW1-CzechLink (23.5E)" 
+0D01F000 "CW1-JSTV (13E)"
+0D020000 "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D00005c "CW2-Unknown Provider"
+0D000008 "CW2-Unknown Provider"
+0D000060 "CW2-Unknown Provider"
+0D02008c "CW2-Unknown Provider"
+0D0000a0 "CW2-Unknown Provider"
+0D0000a4 "CW2-Unknown Provider"
+0D0000ac "CW2-Unknown Provider"
+0D0000b0 "CW2-Unknown Provider"
+0D0000a8 "CW2-Unknown Provider"
+0D020080 "CW2-UPC (19E)" // 0d02:000088 UPC [19E]
+0D020088 "CW2-UPC (19E)" // 0d02:000088 UPC [19E]
+0D02008c "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D0200a0 "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D0200a4 "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D0200a8 "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D025800 "CW2-RTL (13E/23E)"
+0D028000 "Cryptoworks Unknown Provider"
+0D028800 "CW2-UPC Direkt (19E)"
+0D028C00 "CW2-UPC Direkt (19E)(Hustler+XXX)"
+0D02A000 "CW2-UPC Direkt (19E)"
+0D02A400 "CW2-UPC Direkt (19E)"
+0D02A800 "CW2-UPC Direkt (19E)"
+0D030000 "CW2-CzechLink/FilmCS/Galaxie(23.5E)"
+0D03000c "CW2-CzechLink(ID.Unused)(23.5E)"
+0D030010 "CW2-CzechLink(ID.Unused)(23.5E)"
+0D030008 "CW2-CzechLink Premium (23E)"
+0D030024 "CW2-CzechLink Premium (23E)"
+0D030028 "CW2-CzechLink Premium (23E)"
+0D030004 "CW2-Czech Link (23,5E)"
+0D030050 "CW2-Czech Link (23,5E)"
+0D030054 "CW2-Czech Link (23,5E)"
+0D0300a0 "CW2-Fox Kids, E! (BT) (13E)"
+0D0300b0 "CW2-Xtra-Music (19E)" // 0d03:0000b0 Xtra-Music [19E]
+0D030020 "CW2-Unknown Provider"
+0D0300C0 "CW2-DigiTurk (7E)" // 0d03:0000c0 DigiTurk [7E]
+0D0300C1 "CW2-DigiTurk (7E)" // 0d03:0000c1 DigiTurk [7E]
+0D0300C4 "CW2-Lig (DigiTurk) (7E)" // 0d03:0000c4 Lig (Digiturk) [7E]
+0D030400 "CW2-Czech Link (23,5E)"
+0D030800 "CW2-Czech Link Premium (23,5E)"
+0D030C00 "CW2-Skylogic"
+0D032000 "CW2-Slovak Link (23.5E)"
+0D035000 "CW1-GlobeCast"
+0D035C00 "CW1-Globecast (19E/13E)"
+0D036000 "CW1-Globecast (19E/13E)"
+0D035C00 "Cryptoworks Unknown Provider"
+0D036000 "Cryptoworks Unknown Provider"
+0D03A000 "CW2-BT Broadcast (13E) "
+0D03A400 "CW2-Czech Link (23.5E)"
+0D03A800 "CW2-Czech Link (23.5E)"
+0D03AC00 "CW2-Czech Link (23.5E)"
+0D03B000 "CW2-Xtra Music (19E)"
+0D03C000 "CW2-DigiTurk (7E)"
+0D03C400 "CW2-DigiTurk (7E) Lig TV [7E]"
+0D03C800 "CW2-DigiTurk (7E) (not used)"
+0D03C800 "CW1-Digiturk (7E) (not used)"
+0D040000 "CW2-KabelKiosk/KabelVision (8W)" // 0d04:000000 Cabel Vision[4W]
+0D040004 "CW2-DMC (15E)" // 0d04:000004 DMC [15W]
+0D040008 "CW2-DMC (15E)" // 0d04:000008 DMC [15W]
+0D04000C "CW2-DMC (15E)" // 0d04:00000c DMC [15W]
+0D040010 "CW2-DMC (15E)" // 0d04:000010 DMC [15W]
+0D040014 "CW2-Kabel!Vision (4W)" // 0d04:000014 Kabel!Vision [4W]
+0D040400 "CW2-DMC (15E)"
+0D040800 "CW2-DMC (15E)"
+0D040C00 "CW2-DMC (15E)"
+0D041000 "CW2-DMC (15E)"
+0D041400 "CW2-KabelKiosk/KabelVision (8W)"
+0D050000 "CW2-ORF/ATV+ (19E)"
+0D050004 "CW2-ORF (19E)" // 0d05:000004 ORF [19E]
+0D050008 "CW2-ORF (19E)" // 0d05:000008 ORF [19E]
+0D05000C "CW2-ORF (19E)" // 0d05:00000c ORF [19E]
+0D050010 "CW2-ORF (19E)" // 0d05:000010 ORF [19E]
+0D050400 "CW2-ORF/ATV+(19E)"
+0D050800 "CW2-Easy TV (19E)"
+0D050C00 "CW2-ORF/ATV+ (19E)"
+0D051000 "CW2-ORF/ATV+ (19E)"
+0D054000 "CW2-ORF (19E)"
+0D058000 "CW2-Easy.TV (19E)(Fallita)"
+0D05C000 "CW2-ORF (19E)"
+0D051000 "CW2-ORF (19E)"
+0D060000 "CW2-ITV Partner (16E)(Full & XXX)" // 0d06:0000c0 ITV [16E]
+0D0600C0 "CW2-ITV Partner (16E)(Full & XXX)" // 0d06:0000c0 ITV [16E]
+0D0600C4 "CW2-ITV Partner (16E)(Full & XXX)" // 0d06:0000c4 ITV [16E]
+0D060400 "CW2-ITV Partner (16E)(Full & XXX)"
+0D06C000 "CW2-ITV Partner (16E)(Full & XXX)"
+0D06C400 "CW2-ITV Partner (16E)(Full & XXX)"
+0D06c800 "CW2-ITV Partner (16E)(Full & XXX)"
+0D060400 "CW2-ITV Partner (16E)(Full & XXX)"
+0D06cc00 "CW2-ITV Partner (16E)(Full & XXX)"
+0D0600c8 "CW2-ITV Partner (16E)(Full & XXX)"
+0D0600cc "CW2-ITV Partner (16E)(Full & XXX)"
+0D060004 "CW2-ITV Partner (16E)(Full & XXX)"
+0D060008 "CW2-ITV Partner (16E)(Full & XXX)"
+0D06000c "CW2-ITV Partner (16E)(Full & XXX)"
+0D060010 "CW2-ITV Partner (16E)(Full & XXX)"
+0D070000 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070014 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070018 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D07001c "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070020 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D071400 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070400 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070C00 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D071000 "CW2-BRITISH FORCE BOARDCASTING SERVICE(7E)"
+0D070400 "CW2-Antena Hungaria (DVBC)"
+0D070800 "CW2-Antena Hungaria (DVBC)"
+0D070C00 "CW2-Antena Hungaria (DVBC)"
+0D071000 "CW2-Antena Hungaria (DVBC)"
+0D080014 "CW2-AlMajd (30E)"
+0D080018 "CW2-AlMajd (30E)"
+0D08001C "CW2-AlMajd (30E)"
+0D080020 "CW2-AlMajd (30E)"
+0D0C0C00 "CW2-Easy Tv 19E"
+0D0C1000 "CW2-Easy Tv 19E"
+0D0C1400 "CW2-Easy Tv 19E"
+0D0C1800 "CW2-Easy Tv 19E"
+0D0D0000 "CW2-ANTENNA HUNGARIA (4W)"
+0D0f0004 "CW2-DiGITAL (23E)"
+0D0f0808 "CW2-DiGITAL HBO/FilmCS/Galaxie (23E)"
+0D0f0008 "CW2-DiGITAL HBO/FilmCS/Galaxie (23E)"
+0D0f000c "CW2-DiGITAL (23E)"
+0D0f0010 "CW2-DiGITAL (23E)"
+0D0f0400 "CW2-DiGITAL (23E)"
+0D0f0800 "CW2-DiGITAL HBO/FilmCS/Galaxie (23E)"
+0D0f0000 "CW2-Czech Link (23.5E)"
+0D31a400 "CW2-Unknown Provider"
+0D700000 "CW2-Slovaklink+Czech(hd)(new.id)23E"
+0D700400 "CW2-Slovaklink+Czech(new.id)23E"
+0D700800 "CW2-Slovaklink+Czech(new.id)23E"
+0D700c00 "CW2-Slovaklink+Czech(new.id)23E"
+0D701000 "CW2-Slovaklink+Czech(new.id)23E"
+0D700004 "CW2-Slovaklink+Czech(new.id)23E"
+0D700008 "CW2-Slovaklink+Czech(new.id)23E"
+0D70000c "CW2-Slovaklink+Czech(new.id)23E"
+0D700010 "CW2-Slovaklink+Czech(new.id)23E"
+0D742000 "CW2-Unknown Provider"
+17020000 "BetaCrypt-Premiere(19E)Kabel(23.5)"
+17020001 "BetaCrypt-Premiere(19E)Kabel(23.5)"
+17020002 "BetaCrypt-Premiere(19E)Kabel(23.5)"
+17020003 "BetaCrypt-Premiere(19E)Kabel(23.5)"
+17220000 "BetaCrypt-Premiere Kabel (19E) tunneled Nagra "
+17220001 "BetaCrypt-Premiere Kabel (19E) tunneled Nagra "
+17220002 "BetaCrypt-Premiere Kabel (19E) tunneled Nagra "
+17220003 "BetaCrypt-Premiere Kabel (19E) tunneled Nagra "
+17620000 "BetaCrypt-Premiere Austria (19E) tunneled Nagra"
+17630000 "BetaCrypt-Unknown Premiere tunneled Nagra"
+18000000 "Nagravision Unknown Provider"
+18000001 "Dish Network" // 1800:000001 Dish Networks
+18000101 "Dish Network" // 1800:000101 Dish Networks
+18000401 "Premiere (19E)" // 1800:000401 Premiere [19E]
+18000801 "Bell ExpressVU" // 1800:000801 Express VU
+18000901 "Bell ExpressVU" // 1800:000901 Express VU
+18001001 "DigiKabel" // 1800:001001 DigiKabel
+18001801 "Via Digital OLD "
+18001911 "Mediapark"
+18002011 "Unknown Nagra provider"
+18002201 "MultiCanal " // 1800:002201 MultiCanal
+18002301 "MultiCanal" // 1800:002301 Multicanal 30W
+18002C01 "SABC" // 1800:002C01 SABC [68E]
+18002D01 "SABC" // 1800:002D01 SABC [68E]
+18003001 "ORF" // 1800:003001 ORF [19E]
+18003101 "ORF"
+18003C01 "Visavision" // 1800:003C01 VisAvision [8W]
+18003D01 "Visavision" // 1800:003D01 VisAvision [8W]
+18004001 "N1-Via Digital (Old)" // 1800:004001 Via Digital [30W]
+18004002 "N2-Unknown Provider"
+18004101 "N1-Via Digital (Old)" // 1800:004101 Via Digital [30W]
+18004102 "N2-Unknown Provider"
+18004201 "RTVE"
+18004301 "RTVE"
+18004601 "Euskatel" // 1800:004601 Euskaltel
+18004701 "N1-Euskatel"
+18004801 "N1-TV Cabo" // 1800:004801 TV Cabo [30W]
+18004901 "N1-TV Cabo" // 1800:004901 TV Cabo [30W]
+18004A01 "TBL TV"
+18004B01 "TBL TV" // 1800:004B01 TBL TV [88E]
+18004E01 "N1-Dream TV" // 1800:004E01 Dream TV [146E]
+18004F01 "N1-Dream TV" // 1800:004F01 Dream TV [146E]
+18005401 "NTL Cable (UK)" // 1800:005401 NTL
+18005501 "NTL Cable (UK)"
+18005601 "Quiero Tv"
+18005701 "Quiero Tv"
+18005A01 "N1-TeleWest Cable (UK)" // 1800:005A01 TeleWest Cable
+18005B01 "TeleWest Cable (UK)" // 1800:005B01 TeleWest Cable
+18005C01 "C+W/NTL Cable (UK)" // 1800:005C01 NTL Digital Cable
+18005D01 "C+W/NTL Cable (UK)" // 1800:005D01 NTL Digital Cable
+18005E01 "Chorus" // 1800:006E01 ABS-CBN [75E, 5W]
+18005F01 "Chorus"
+
+
+
+
